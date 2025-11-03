@@ -1,0 +1,22 @@
+{
+  "pupil_aspect_ratio": 3.0,
+  "rod_cone_ratio": 25.0,
+  "peak_wavelength": 500,
+  "tapetum_reflectance": 0.3,
+  "visual_field_horizontal": 200,
+  "visual_field_vertical": 140,
+  "s_cone_peak": 450,
+  "l_cone_peak": 556,
+  "rod_peak": 498,
+  "spatial_acuity_factor": 0.167,
+  "foveal_acuity_cycles_per_degree": 3.0,
+  "flicker_fusion_threshold": 55,
+  "temporal_sensitivity_peak": 10,
+  "motion_sensitivity": 1.8,
+  "horizontal_motion_bias": 1.5,
+  "color_weights": {
+    "blue": 1.4,
+    "green": 1.2,
+    "red": 0.6
+  }
+}

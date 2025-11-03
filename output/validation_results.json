@@ -1,0 +1,7 @@
+{
+  "spectral_sensitivity_validation": 1.0,
+  "spatial_acuity_validation": 0.32443812664040983,
+  "temporal_response_validation": 0.9699074074074074,
+  "motion_detection_validation": 0.5555555511982571,
+  "overall_accuracy_score": 0.7124752713115186
+}
